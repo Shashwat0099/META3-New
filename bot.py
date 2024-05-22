@@ -9,7 +9,7 @@ API_ID = 'YOUR_API_ID'
 API_HASH = 'YOUR_API_HASH'
 BOT_TOKEN = 'YOUR_BOT_TOKEN'
 GROUP_ID = 'YOUR_GROUP_ID'  # Change to group ID
-GITHUB_REPO_URL = 'https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/members.txt'
+GITHUB_REPO_URL = 'https://raw.githubusercontent.com/ShashwatMishra0099/Members.run/main/members.txt'
 
 # Initialize Telegram client for bot
 bot = TelegramClient('bot', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
