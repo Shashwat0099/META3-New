@@ -5,10 +5,10 @@ from telethon import TelegramClient, events, sync
 from telethon.tl.functions.channels import InviteToChannelRequest
 
 # Define constants
-API_ID = 'YOUR_API_ID'
-API_HASH = 'YOUR_API_HASH'
-BOT_TOKEN = 'YOUR_BOT_TOKEN'
-GROUP_ID = 'YOUR_GROUP_ID'  # Change to group ID
+API_ID = '29270113'
+API_HASH = '360fc41c046f221ed27f5ecfefea681f'
+BOT_TOKEN = '7087096200:AAHT5vlpiBFjwQVredRNFeYVV0DYOOduCCo'
+GROUP_ID = '-4238096135'  # Change to group ID
 GITHUB_REPO_URL = 'https://raw.githubusercontent.com/ShashwatMishra0099/Members.run/main/members.txt'
 
 # Initialize Telegram client for bot
