@@ -1,5 +1,5 @@
 telethon
 requests
 python-telegram-bot==20.0
-python-telegram-login==1.4.0
+python-telegram-login
 python-telegram==0.0.11
